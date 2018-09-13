@@ -1,6 +1,6 @@
 token=NDc3MDc3MjU0MzIxNzMzNjMy.DnwexA.Jf92tNZCY08lBppaK-WHYAXx7N0
 owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+prefix=2
+game=2play
 stayinchannel=true
 songinstatus=true
